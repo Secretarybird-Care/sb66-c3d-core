@@ -1,0 +1,7 @@
+[
+  {
+    "install": "bun install",
+    "start": "bun dev",
+    "resourceSize": "medium"
+  }
+]
